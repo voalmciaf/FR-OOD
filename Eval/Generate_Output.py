@@ -14,7 +14,7 @@ from huggingface_hub import login
 import tqdm
 
 
-login(token="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")  # logs in programmatically
+login(token="")  # logs in programmatically
 
 SYSTEM_PROMPT = "You are a helpful assistant."
 batch_size=16

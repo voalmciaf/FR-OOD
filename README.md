@@ -1,4 +1,4 @@
-# Meta-reasoning-Induced-Generalization
-This is the source code for "Meta-reasoning Induced Generalization in Language Models via Parameter-Efficient Fine-Tuning"
+# Fundamental Reasoning Paradigms Induce Out-of-Domain Generalization in Language Models
+This is the source code for "Fundamental Reasoning Paradigms Induce Out-of-Domain Generalization in Language Models"
 
 
